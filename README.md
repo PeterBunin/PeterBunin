@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @PeterBunin
-- 👀 I’m interested in administration, DevOps, QA, monitoring (Grafana/Prometheus)
-- 🌱 I’m currently learning QA
+- 👀 I’m interested in administration, DevOps, QA, monitoring (not Zabbix)
